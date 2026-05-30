@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jeremy Quinn Lorenzo 👋
 
-<!--
-**lorenzojeremy6-ctrl/lorenzojeremy6-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech-savvy and highly adaptive professional experienced in community moderation, data management, and digital operations. I thrive in fast-paced environments, managing digital workflows, and keeping online operations organized.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills & Tools
+* **Community Management:** Discord, Telegram, Community Moderation, Engagement Tracking
+* **Data & Admin:** Data Entry, Online Research, Administrative Support, Database Management
+* **Tech Capabilities:** Node Management, Tech Troubleshooting, Fast Learner for Web3/AI Tools
+
+### 📈 What I Bring to the Team
+* **Adaptability:** Ready to pick up any software, dashboard, or workflow instantly.
+* **Organized & Detailed:** Excellent at managing messy inboxes, triaging customer requests, and multitasking under pressure.
+* **Tech-Driven:** Always looking for efficient, automated ways to solve operational bottlenecks.
+
+---
+
+### 📬 Connect with Me
+* **Email:** stephanie@triquetrahealth.com (or update this to your personal email if you prefer!)
+
+*Ready to hit the ground running and support your team's operations!*
