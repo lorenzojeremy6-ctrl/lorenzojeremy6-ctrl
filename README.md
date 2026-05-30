@@ -17,6 +17,6 @@ I am a tech-savvy and highly adaptive professional experienced in community mode
 ---
 
 ### 📬 Connect with Me
-* **Email:** stephanie@triquetrahealth.com (or update this to your personal email if you prefer!)
+* **Email:** lorenzojeremy6@gmail.com 
 
 *Ready to hit the ground running and support your team's operations!*
